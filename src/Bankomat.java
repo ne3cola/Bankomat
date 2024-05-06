@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Bankomat {
     public static void main(String[] args) {
+        // это вторая ветка
         // проверка комита
         Scanner sc = new Scanner(System.in);
         System.out.println("Добро пожаловать в контроль расходов!");
